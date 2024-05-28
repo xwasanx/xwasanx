@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xwasanx
-- 👀 I’m interested in  Data science | AI | Business intelligence | Project management.
+- 👀 I’m interested in  Data science | AI | Business intelligence 
 - 🌱 I’m currently learning Data Science and AI
 - 📫 How to reach me? Emile: wasanalmalki9@gmail.com
 <!---
